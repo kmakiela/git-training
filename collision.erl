@@ -2,5 +2,5 @@
 
 -export([do/0]).
 
-do() -> ok.
+do() -> undefined.
 
